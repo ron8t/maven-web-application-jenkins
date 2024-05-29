@@ -9,7 +9,7 @@
 	<version>0.0.2.snapshot</version> 
 	
 	<name>maven-web-application</name>
-
+	
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
@@ -143,6 +143,7 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
+			//nothing here
 			
 </plugins>
 	</build>
