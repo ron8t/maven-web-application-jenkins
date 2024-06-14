@@ -143,7 +143,6 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
-			//nothing 
 			
 </plugins>
 	</build>
